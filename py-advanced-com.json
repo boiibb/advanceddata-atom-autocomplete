@@ -1,6 +1,6 @@
 [
 	{
-		"displayText": "#pystart",
+		"displayText": " @#pystart",
 		"snippet": "#   Python Program : ${1:program name} by ${2:author name}.",
 		"description": "Start of Python file - modulable"
 	}
