@@ -1,7 +1,12 @@
 [
 	{
 		"displayText": "@pystart",
-		"snippet": "#   Python Program : ${1:program name} by ${2:author name}.",
+		"snippet": "#   Python Program : ${1:program name} by ${2:author name}."+\r+
+			   "#	Date : ${3:00}/${4:00}/${5:0000}	Using Python ${6:Version} and Atom text editor"+\r+
+			   "#	Char-UTF8	English		Location : ${7:Location}"+\r+
+			   "#"+\r+
+			   "#	VAR LEXIQUE"+\r+
+			   "#	ID	TYPE		ROLE		CONSTANT OR NOT",
 		"description": "Start of Python file - modulable"
 	}
 ]
