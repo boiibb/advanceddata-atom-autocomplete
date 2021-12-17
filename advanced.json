@@ -1,11 +1,6 @@
 [
 	{
-		"displayText": "@snippet1",
-		"snippet": "Start typing to replace ${1:this text}.",
-		"description": "A simple snippet."
-	},
-	{
-		"displayText": " @pystart",
+		"displayText": "@pystart",
 		"snippet": "#   Python Program : ${1:program name} by ${2:author name}.",
 		"description": "Start of Python file - modulable"
 	}
